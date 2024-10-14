@@ -1,8 +1,8 @@
 # minishell-42
 
-`minishell` is the first **group project** of the common core at 42's school. This project is about creating a simplified version of the Unix shell. Here we learned a lot about processes and file descriptors.
+`minishell` is the first **group project** of the common core at 42's school. My mate was **ecorvisi**.
 
-We discovered how shell environments work, including command parsing, execution, and built-in commands. This project focuses on mastering process management and inter-process communication.
+This project is about creating a simplified version of the Unix shell. Here we learned a lot about processes and file descriptors. We discovered how shell environments work, including command parsing, execution, and built-in commands. This project focuses on mastering process management and inter-process communication.
 
 ## Objectives
 
